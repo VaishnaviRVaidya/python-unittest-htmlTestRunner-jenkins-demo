@@ -7,7 +7,7 @@
 import unittest
 from TestRunner import HTMLTestRunner
 from TestRunner import SMTP
-from test import TestDemo, TestDemo2
+#from test import TestDemo, TestDemo2
 
 if __name__ == '__main__':
     suit = unittest.TestSuite()
